@@ -1,0 +1,40 @@
+# Cyberdelia
+# Hackers (1995) by way of a Massive Attack sleeve and a Designers Republic
+# layout. Deliberately garish: hot magenta, cathode cyan, acid green and
+# hazard yellow on a CRT-off navy black. Pre-pre-Frutiger Aero.
+
+mode = "dark"
+
+accent = "#ff3ec9"
+selection = "#2a1a4a"
+muted = "#3a3c6a"
+
+background = "#0b0c1c"
+dark_background = "#07071a"
+darker_background = "#04040f"
+lighter_background = "#171836"
+
+foreground = "#e6ecff"
+dark_foreground = "#6f74a8"
+light_foreground = "#c3c9ee"
+bright_foreground = "#f4f7ff"
+
+red = "#ff3860"
+yellow = "#ffe600"
+orange = "#ff7a1a"
+green = "#7dff3a"
+cyan = "#00f0ff"
+blue = "#4d7dff"
+magenta = "#ff3ec9"
+brown = "#9a5b2e"
+
+bright_red = "#ff6b8a"
+bright_yellow = "#fff36b"
+bright_green = "#a6ff7a"
+bright_cyan = "#7af7ff"
+bright_blue = "#85a6ff"
+bright_magenta = "#ff7fdc"
+
+# Focused windows get the full Cyberdelia lightshow: magenta into cyan into acid.
+hyprland_active_border = "rgba(ff3ec9ee) rgba(00f0ffee) rgba(7dff3aee) 45deg"
+hyprland_inactive_border = "rgba(3a3c6aaa)"

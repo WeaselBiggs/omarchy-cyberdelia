@@ -1,0 +1,4 @@
+# rendered scratch SVGs from gen-wallpapers.py
+*.svg
+!preview-src/preview.svg
+__pycache__/
