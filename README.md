@@ -92,6 +92,7 @@ cd preview-src && rsvg-convert -w 1800 -h 1012 -o ../preview.png preview.svg
 - `icons.theme` — icon theme name (Yaru-magenta-dark)
 - `backgrounds/` — the six wallpapers
 - `preview.png`, `unlock.png` — theme-menu card and lock-screen logo
+- `preview-unlock.png` — 1920x1080 lock-screen preview, the logo over the password box
 - `gen-wallpapers.py` — the wallpaper compiler
 - `preview-src/` — preview card source
 - `garbage file` — deleted. You didn't see it.
